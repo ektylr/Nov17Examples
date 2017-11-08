@@ -7,5 +7,4 @@
 1. Plotting
    * `Nov17_z.ipynb` contains an example of turning histograms from AnalysisToolLight into nice plots.
 1. Limit setting
-   * H2MuCombination
-   * `Nov17_limits.ipynb` contains the code for the full category limit plot. 
+   * [H2MuCombination](https://github.com/ektylr/H2MuCombination) uses the Higgs Combination tool to create files used by `Nov17_limits.ipynb`, which contains the code for the full category limit plot. 
