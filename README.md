@@ -3,7 +3,7 @@
 1. Ntuplization
 1. Final State Analysis
 1. Plotting
-  * `Nov17_z.ipynb` contains an example of turning histograms from AnalysisToolLight into nice plots.
+   * `Nov17_z.ipynb` contains an example of turning histograms from AnalysisToolLight into nice plots.
 1. Limit setting
-  * H2MuCombination
-  * `Nov17_limits.ipynb` contains the code for the full category limit plot. 
+   * H2MuCombination
+   * `Nov17_limits.ipynb` contains the code for the full category limit plot. 
