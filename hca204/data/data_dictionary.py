@@ -1,16 +1,16 @@
 chron_conditions = [
     'CC_NONE',     # 'No Chronic Conditions'
-    'CC_ALZHDMTA', # 'Alzheimer\'s Disease and Related Disorders or Senile Dementia'
-    'CC_CANCER',   # 'Cancer'
-    'CC_CHF',      # 'Heart Failure'
-    'CC_CHRNKIDN', # 'Chronic Kidney Disease'
-    'CC_COPD',     # 'Chronic Obstructive Pulmonary Disease'
-    'CC_DEPRESSN', # 'Depression'
-    'CC_DIABETES', # 'Diabetes'
-    'CC_ISCHMCHT', # 'Ischemic Heart Disease'
-    'CC_OSTEOPRS', # 'Osteoporosis'
-    'CC_RA_OA',    # 'Rheumatoid Arthritis/Osteoarthritis Arthritis'
     'CC_STRKETIA', # 'Stroke/Transient Ischemic Attack'
+    'CC_RA_OA',    # 'Rheumatoid Arthritis/Osteoarthritis Arthritis'
+    'CC_OSTEOPRS', # 'Osteoporosis'
+    'CC_ISCHMCHT', # 'Ischemic Heart Disease'
+    'CC_CHF',      # 'Heart Failure'
+    'CC_DIABETES', # 'Diabetes'
+    'CC_DEPRESSN', # 'Depression'
+    'CC_COPD',     # 'Chronic Obstructive Pulmonary Disease'
+    'CC_CHRNKIDN', # 'Chronic Kidney Disease'
+    'CC_CANCER',   # 'Cancer'
+    'CC_ALZHDMTA', # 'Alzheimer\'s Disease and Related Disorders or Senile Dementia'
 ]
 
 
